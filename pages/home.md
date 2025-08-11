@@ -1,6 +1,6 @@
 ---
 name: Home
-assetId: 1346bce9-436f-4f34-b5ce-c6e0e4e63ce3
+assetId: 79a00b94-a2e1-471e-b375-e6bc7edb3488
 type: page
 cards: false
 page_width: article
